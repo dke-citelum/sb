@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Stéphane BALADE
+N;CHARSET=UTF-8:BALADE;Stéphane;;;
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:stephane.balade@dalkiaelectrotechnics.fr
+TEL;TYPE=CELL:06.18.30.17.44
+TEL;TYPE=WORK,VOICE:04.92.29.83.29
+LABEL;CHARSET=UTF-8;TYPE=WORK:DALKIA Electrotechnics
+ADR;CHARSET=UTF-8;TYPE=WORK:;;28 chemin de Saquier;Nice;;06200;France
+TITLE;CHARSET=UTF-8: Pôle Equipements et Systèmes Connectés
+ORG;CHARSET=UTF-8:DALKIA Electrotechnics;Responsable Technique IT/CFA
+URL;type=WORK;CHARSET=UTF-8:www.dalkiaelectrotechnics.fr/citelum
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/sbalade
+REV:2024-07-20T11:10:00.440Z
+END:VCARD
